@@ -1,3 +1,3 @@
 # clock
-this is a beatiful clock
+This is a beatiful clock
 
